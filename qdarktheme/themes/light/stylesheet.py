@@ -937,7 +937,7 @@ QAbstractSpinBox {
     border: 1px solid #dadce0;
     padding: 3px 4px;
     min-height: 1em;
-    background: rgba(255.000, 255.000, 255.000, 0.000);
+    background: #ffffff;
     border-radius: $radius{4px};
 }
 QLineEdit:focus,
