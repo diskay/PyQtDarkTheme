@@ -769,9 +769,6 @@ QPlainTextEdit:!active {
 QAbstractItemView {
     alternate-background-color: #e9ecef;
 }
-QAbstractItemView::item {
-    $env_patch{"version": ">=6.0.0", "value": "border-color: transparent"};
-}
 QAbstractItemView:selected:!active,
 QAbstractItemView:selected:!focus,
 QAbstractItemView::item:selected:!active,
