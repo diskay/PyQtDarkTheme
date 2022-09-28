@@ -785,7 +785,7 @@ QTreeView::branch:selected {
 }
 QAbstractItemView::item:!selected:hover,
 QTreeView::branch:!selected:hover {
-    background: #d3d3d3;
+    background: #e9e9e9;
 }
 QAbstractItemView::item:selected:disabled {
     color: #babdc2;
@@ -829,7 +829,7 @@ QTreeView::branch:open:has-children:has-siblings:disabled  {
     image: url(${path}/light/svg/expand_less__icon-foreground-disabled__rotate-180.svg);
 }
 QTableView {
-    gridline-color: #58595c;
+    gridline-color: #dadbdc;
     background: #ffffff;
 }
 QTableView QTableCornerButton::section {
