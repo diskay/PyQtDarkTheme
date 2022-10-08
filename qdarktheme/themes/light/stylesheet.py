@@ -1092,3 +1092,4 @@ ParameterTree > .QWidget > .QWidget > .QWidget > QComboBox{
 }
 
 """
+
