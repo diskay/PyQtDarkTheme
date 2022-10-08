@@ -1,5 +1,7 @@
 """Contents that define stylesheet for light theme."""
 
+"""Contents that define stylesheet for light theme."""
+
 STYLE_SHEET = """
 * {
     padding: 0;
